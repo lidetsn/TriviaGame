@@ -1,0 +1,16 @@
+body{
+    background-color: #f0f0f0;
+}
+.outcont ,#timer{
+
+    background-color: MediumSeaGreen;
+}
+#headercont,#questioncontainer,#notification{
+    background-color: #ffffff;
+}
+button:hover{
+background-color:mediumseagreen;
+color: #ffffff;
+
+}
+
