@@ -50,6 +50,7 @@ var Quiz = {
                   $("#choice"+i).append(ctrl).append(Quiz.Questions[qnum].Qchoices[i]);                                            
                    }                                                   
                   },
+                  
        getNextQuestion:function(){ 
                     $("#questioncontainer").show()
                     $(".notify").hide();
